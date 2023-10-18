@@ -1,0 +1,8 @@
+
+Arduino nano
+
+ECG AD8232 Sensor
+
+BreadBoard
+
+Wires
